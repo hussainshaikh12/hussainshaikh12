@@ -21,19 +21,37 @@
 <!-- 
 <img align="right" width='30' src="https://user-images.githubusercontent.com/46746707/158658139-d292b140-92b5-4e4b-b140-597da2010d9e.jpg" />
  -->
-### I’m Hussain shaikh
-- A Fullstack Django developer 
-- And a Computer Engineering Undergraduate Student
-- I’m interested in creating solutions that will help and have positive impact in the world
-- I’m currently learning NMT using transfromers to integrate multilingual support in my project
-<!-- 
-### Programming Languages
+# Hi there! 👋
 
- 
- ### Technologies I Use
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
- 
- -->
+I'm Hussain Shaikh, a passionate Fullstack Django Developer and a Computer Engineering Graduate. I'm on a journey to create innovative solutions that have a positive impact on the world. 💡
+
+🚀 **What I Do:**
+- Fullstack Django Development
+- Building web applications
+- Integrating multilingual support with NMT using Transformers
+
+💻 **Tech Stack:**
+- Python, Django, React, Typescript
+- HTML, CSS, JavaScript
+- PostgreSQL, MySQL
+- Git, Docker
+- RESTful APIs
+- NMT (Neural Machine Translation) with Transformers
+
+📚 **Currently Learning:**
+Django htmx and alpine js to see how it feels to write less javascript
+
+🤝 **Let's Connect:**
+I'm open to collaboration and opportunities that allow me to contribute to meaningful projects. Feel free to reach out to me for any inquiries or just to connect and chat about tech!
+
+📫 **Contact Me:**
+- LinkedIn: [hussainshk](https://www.linkedin.com/in/hussainshk)
+- Email: [hussainshk2001@gmail.com](mailto:hussainshk2001@gmail.com)
+
+
+Let's create something amazing together. 🚀
+
+
 [![An image of @hussainshaikh12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hussainshaikh12)](https://holopin.io/@hussainshaikh12)
 <!---
 hussainshaikh12/hussainshaikh12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

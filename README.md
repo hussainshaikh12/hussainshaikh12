@@ -28,7 +28,7 @@ I'm Hussain Shaikh, a passionate Fullstack Django Developer and a Computer Engin
 🚀 **What I Do:**
 - Fullstack Django Development
 - Building web applications
-- Integrating multilingual support with NMT using Transformers
+
 
 💻 **Tech Stack:**
 - Python, Django, React, Typescript

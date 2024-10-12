@@ -36,10 +36,7 @@ I'm Hussain Shaikh, a passionate Fullstack Django Developer and a Computer Engin
 - PostgreSQL, MySQL
 - Git, Docker
 - RESTful APIs
-- NMT (Neural Machine Translation) with Transformers
 
-📚 **Currently Learning:**
-Django htmx and alpine js to see how it feels to write less javascript
 
 🤝 **Let's Connect:**
 I'm open to collaboration and opportunities that allow me to contribute to meaningful projects. Feel free to reach out to me for any inquiries or just to connect and chat about tech!
